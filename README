@@ -5,6 +5,6 @@ To include this repository in your project add the following to your pom.xml fil
     <repositories>
         <repository>
             <id>geospace-repo</id>
-            <url>https://raw.github.com/GeoJosh/geospace/master</url>
+            <url> https://raw.github.com/GeoJosh/geospace-repo/master </url>
         </repository>
     </repositories>
